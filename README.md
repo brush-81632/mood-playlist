@@ -1,3 +1,12 @@
+## Project Context & Contributions
+This repository is a professional portfolio mirror of a collaborative university capstone project. 
+
+While the system was a team effort, my specific engineering responsibilities included:
+* **Backend Automation & Scripting:** Utilizing Python to handle API integration workflows.
+* **Architecture & Documentation:** Managing system design layouts, technical specifications, and internal documentation.
+* **Stakeholder Presentation:** Delivering the final architectural and technical capability project pitches.
+
+---
 **Mood Playlist App**
 ---
 # What is Mood Playlist?
